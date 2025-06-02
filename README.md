@@ -18,9 +18,9 @@ For example with [chicago](https://github.com/rwendell/chicago-theme)
 
 `gowall convert wallpaper.jpg -t base16-chicago-day.json`
 
-Before:
+<span>
 <img src="img/before.jpg" height="300" />
-
-After:
+==>
 <img src="img/after.jpg" height="300" />
+</span>
 
