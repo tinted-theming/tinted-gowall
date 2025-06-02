@@ -5,7 +5,7 @@ Add the following toml settings to your Tinty ~/.config/tinted-theming/tinty/con
 
 ```toml
 [[items]]
-path = "https://github.com/rwendell/tinted-gowall"
+path = "https://github.com/tinted-theming/tinted-gowall"
 name = "wallpaper"
 themes-dir = "themes" 
 supported-systems = ["base16", "base24"]
