@@ -17,7 +17,7 @@ This will create a gowall compatible JSON config file that you can then use to a
 For example with [chicago](https://github.com/rwendell/chicago-theme), and this image of a rainbow:
 <img src="img/before.jpg" />
 
-`gowall convert wallpaper.jpg -t base16-chicago.json`
+`gowall convert wallpaper.jpg -t base16-chicago-day.json`
 
 will produce:
 
