@@ -1,0 +1,6 @@
+base16:
+  filename: themes/{{ scheme-system }}-{{ scheme-slug }}.json
+  supported-systems: [base16]
+base24:
+  filename: themes/{{ scheme-system }}-{{ scheme-slug }}.json
+  supported-systems: [base24]
