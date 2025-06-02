@@ -14,12 +14,13 @@ This will create a gowall compatible JSON config file that you can then use to a
 
 `gowall convert [INPUT] [OPTIONAL OUTPUT] -t <PATH_TO_YOUR_THEME>`
 
-For example with [chicago](https://github.com/rwendell/chicago-theme), and this image of a rainbow:
-<img src="img/before.jpg" height="300" />
+For example with [chicago](https://github.com/rwendell/chicago-theme)
 
 `gowall convert wallpaper.jpg -t base16-chicago-day.json`
 
-will produce:
+Before:
+<img src="img/before.jpg" height="300" />
 
+After:
 <img src="img/after.jpg" height="300" />
 
