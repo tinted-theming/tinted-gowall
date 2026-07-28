@@ -1,0 +1,21 @@
+{
+    "name": "Neovim Dark",
+    "colors": [
+        "#14161b",
+        "#07080d",
+        "#4f5258",
+        "#9b9ea4",
+        "#c4c6cd",
+        "#e0e2ea",
+        "#eef1f8",
+        "#eef1f8",
+        "#ffc0b9",
+        "#ffa500",
+        "#fce094",
+        "#b3f6c0",
+        "#8cf8f7",
+        "#a6dbff",
+        "#ffcaff",
+        "#cd853f"
+    ]
+}
